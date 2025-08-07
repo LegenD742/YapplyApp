@@ -13,6 +13,11 @@ A real-time chat application built with **React**, **Node.js**, **Express**, **M
 
 ---
 
+![My Image](images/i1.png)
+![My Image](images/i2.png)
+![My Image](images/i3.png)
+
+
 ## 🛠️ Getting Started (How to run it in your local machine )
 
 ### 1. Setting up 
